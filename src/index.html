@@ -10,15 +10,28 @@
       integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ"
       crossorigin="anonymous"
     />
-    <link rel="shortcut icon" href="./4geeks.ico" />
+    <link rel="stylesheet" type="text/css" href="styles.css" />
   </head>
   <body>
     <div class="container-fluid text-center">
-      <h1 class="mt-5">I'm sorry, I can't,</h1>
-      <img src="./rigo-baby.jpg" />
-      <p id="excuse">
-        the dog ate my homework.
-      </p>
+      <h1 class="header">I'm sorry,</h1>
+      <p id="excuse">the dog ate my homework.</p>
+      <button type="button" onclick="onload()" id="button">
+        click me
+      </button>
+      <div id="quote">
+        <p
+          style="position: fixed; bottom: 2rem; width:100%; text-align: center"
+        >
+          &quotA peculiar combination of circumstances had prevented it. &quot
+        </p>
+        <p
+          class="blockquote-footer"
+          style="position: fixed; bottom: 0; width:100%; text-align: center"
+        >
+          F. Scott Fitzgerald, <cite>The Great Gatsby</cite>
+        </p>
+      </div>
     </div>
   </body>
 </html>
