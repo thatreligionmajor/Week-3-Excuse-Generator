@@ -3,10 +3,17 @@
 ## Description 
 This is a basic HTML and JS web app for creating imaginative excuses for any occasion. 
 
-<!-- ### Features 
-- 
-- 
--->
+### Features 
+- Random Excuse Generation: The app generates random excuses from predefined arrays of subjects, verbs, objects, and dependent clauses.
+- Dynamic Display: The generated excuse is dynamically displayed on the webpage without the need for page refresh.
+- Responsive Design: The app is designed to be responsive and adapts well to various screen sizes, making it accessible across different devices.
+- Stylish UI: The user interface features a clean and modern design with stylish typography and layout.
+- Easy Interaction: Users can generate new excuses with a single click of the "click me" button, making it simple and intuitive to use.
+- Quote Attribution: The app includes a quote at the bottom of the page with attribution to F. Scott Fitzgerald's "The Great Gatsby," adding a literary touch to the user experience.
+- FontAwesome Integration: Utilizes FontAwesome for enhanced visual appeal and design consistency.
+- Bootstrap Integration: Leveraging Bootstrap for styling and layout, ensuring a polished and professional look.
+<!-- - Accessibility: The app is built with accessibility in mind, ensuring that it can be used by a wide range of users, including those with disabilities. -->
+- Cross-browser Compatibility: Tested for compatibility across different web browsers to ensure a consistent experience for all users.
 
 ## Here's a video:
 https://github.com/thatreligionmajor/Week-3-Excuse-Generator/assets/112668448/5722c03f-3b13-4116-8034-75cc9407ab44
@@ -20,18 +27,10 @@ Type on the command line `$ npm run start` and type localhost on the browser.
 
 ### I don't see my changes...
 
-Everytime you change any file inside the `./src` folder the website's public URL will automatically refresh the changes (it's a process called hot deploy)
+Every time you change any file inside the `./src` folder the website's public URL will automatically refresh the changes (it's a process called hot deploy)
 Remember also to refresh cleaning the cache (`command+shift+r` on Mac, `control+shift+r` on PC & Linux)
 
-### How do I include more images in my project?
-
-Add them inside the `./src/assets/img` folder and import them from any of your JS files. E.g: `import "../assets/img/rigo-baby.jpg";`
-
-### How do I include more JS files?
-
-Just add the files into the src folder and import the file/variables into your app.js. E.g: `import myVar from "./file2.js"`
-
-### How do I publish the website?
+<!-- ### How do I publish the website?
 
 This boilerplate is 100% compatible with the free GitHub pages hosting. Publish your website by running:
 
@@ -41,8 +40,4 @@ $ npm run deploy
 
 Very easy and in just one step!  Push to your __main__ branch and use the free hosting that comes with [GitHub pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/#enabling-github-pages-to-publish-your-site-from-master-or-gh-pages), the project is ready to be published. Remember to choose to run the Github Page from your main branch.
 
-### Thank you
-
-This template was built as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
-
-You can find other templates and resources like this at the [school's GitHub page](https://github.com/4geeksacademy/).
+-->
