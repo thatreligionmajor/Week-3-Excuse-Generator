@@ -1,7 +1,7 @@
 # Excuse Generator
 
 ## Description 
-This is a basic HTML and JS web app for creating imaginative excuses for any occasion. 
+This is a sleek and lightweight HTML and JS web app for creating imaginative excuses for any occasion. 
 
 ### Features 
 - Random Excuse Generation: The app generates random excuses from predefined arrays of subjects, verbs, objects, and dependent clauses.
