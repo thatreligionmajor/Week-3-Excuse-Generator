@@ -1,23 +1,20 @@
-# Hello World with Vanilla JS
+# Excuse Generator
 
-Start coding a JS/HTML/CSS website in 30 seconds by opening this template in [Codespaces](https://github.com/codespaces/new/?repo=4GeeksAcademy/vanillajs-hello) or [Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/vanillajs-hello.git).
+## Description 
+This is a basic HTML and JS web app for creating imaginative excuses for any occasion. 
 
-## Before you begin
+<!-- ### Features 
+- 
+- 
+-->
 
+## Here's a video:
+https://github.com/thatreligionmajor/Week-3-Excuse-Generator/assets/112668448/5722c03f-3b13-4116-8034-75cc9407ab44
+
+## Want to see the site run?
+To run the preview in GitHub Codespaces:
 Install the packages by typing: `npm install`.
-
-
-### How do I run my website to see live changes?  
-
-
 Type on the command line `$ npm run start` and type localhost on the browser.
-
-### Where do I write my code?  
-
-It depends on the language, but you have `./src/app.js`, `./src/style.css` and `./src/index.html` respectively, you can add new `.html` as you please, just make sure to import it on the `app.js`.
-
-> Note: remember that the JS workflow starts inside `window.onload`.
-
 
 ## Troubleshooting
 
